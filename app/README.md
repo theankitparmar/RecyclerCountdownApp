@@ -75,14 +75,6 @@ Timers often flicker or reset in RecyclerView due to ViewHolder recycling. This 
 
 ---
 
-## 📸 Screenshots
-
-> Add your screenshots inside a folder called `/screenshots` in your repo root.
-
-- `screenshots/input_screen.png` — user inputs start/end numbers
-- `screenshots/timer_screen.png` — live countdowns running
-
----
 
 ## 🏁 How to Run
 
